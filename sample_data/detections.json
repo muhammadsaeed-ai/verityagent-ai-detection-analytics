@@ -1,0 +1,9 @@
+[
+  {"timestamp":"00:00:01","frame":1,"object_id":101,"label":"person","confidence":0.94},
+  {"timestamp":"00:00:01","frame":1,"object_id":201,"label":"car","confidence":0.91},
+  {"timestamp":"00:00:02","frame":2,"object_id":101,"label":"person","confidence":0.93},
+  {"timestamp":"00:00:02","frame":2,"object_id":201,"label":"car","confidence":0.89},
+  {"timestamp":"00:00:03","frame":3,"object_id":202,"label":"truck","confidence":0.87},
+  {"timestamp":"00:00:04","frame":4,"object_id":203,"label":"car","confidence":0.95},
+  {"timestamp":"00:00:05","frame":5,"object_id":204,"label":"bus","confidence":0.90}
+]
